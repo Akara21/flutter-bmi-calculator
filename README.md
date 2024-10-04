@@ -15,9 +15,11 @@ A beautiful BMI calculator app. Developed using Flutter.
 - AppBar
 - Text
 - TextStyle
+- TextButton
 - SafeArea
 - Padding
 - Column
+- Container
 - Row
 - Colors
 - Color
@@ -26,8 +28,11 @@ A beautiful BMI calculator app. Developed using Flutter.
 - Center
 - Icon
 - Alert
-- AlertStyle
+- AlertDialog
 - DialogButton
+- ElevatedButton
+- GestureDetector
+- FloatingActionButton
 
 ### Concepts Used
 
@@ -36,14 +41,12 @@ A beautiful BMI calculator app. Developed using Flutter.
 - Property
 - Constructor
 - Method
-- Abstraction
 - Inheritance
-- Encapsulation
 - Polymorphism
 - List
 - Conditional
 
-## Preview
+### Preview
 <img src='screenshots/screen1.png' width='400'>
 <br>
 <img src='screenshots/screen2.png' width='400'>
